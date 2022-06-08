@@ -1,9 +1,9 @@
-## Nicole Warren
+# Nicole Warren
 
-# Interest In IT
-## Ideal Job
+### Interest In IT
+### Ideal Job
 ### Personal Profile
-#### Project Idea 
+### Project Idea 
 
 You can use the [editor on GitHub](https://github.com/Nikki0091/IT-Profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
