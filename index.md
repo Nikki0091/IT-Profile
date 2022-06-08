@@ -1,4 +1,4 @@
-# Nicole Warren
+# Nicole Warren                     ![https://github.com/Nikki0091/IT-Profile/blob/gh-pages/15E93B80-3B2B-43EC-A254-AE4FD07CF90E.jpeg]
 
 ### Interest In IT
 this is a test 
