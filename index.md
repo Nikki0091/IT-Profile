@@ -42,8 +42,14 @@ Working with your team, you will feel empowered to decide how you are going to s
 - Grow both personally and professionally by investing in learning and self development - from internal LMS learning, to mentoring, coaching, pair programming, plural sight, to meditation and mindfulness.
 - Connect with your Peers - attend Zoom / Google meetings, have a chat on Slack or join fun- filled conversations on Donut Catchup
 
+
 ### Personal Profile
 
+![this is an image](Leadership test results.PNG)
+
+![this is an image](Learning Style Results.PNG)
+
+![this is an image](Myers-Briggs Test Results.PNG)
 
 
 **What do the results of these tests mean for you?**
