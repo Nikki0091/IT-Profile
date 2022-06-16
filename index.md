@@ -45,12 +45,11 @@ Working with your team, you will feel empowered to decide how you are going to s
 
 ### Personal Profile
 
-![this is an image](Leadership%20test%20results.jpeg)           ![this is an image](Learning%20Style%20Results.jpeg)
+![this is an image](Learning%20Style%20Results.jpeg)
 
-                                                                ![this is an image](Myers-Briggs%20Test%20Results.jpeg)
+![this is an image](Myers-Briggs%20Test%20Results.jpeg)
 
-
-
+![this is an image](Leadership%20test%20results.jpeg)    
 
 
 
